@@ -1,0 +1,4 @@
+extend-exclude = ["migrations", ".venv"]
+
+[format]
+quote-style = "single"
